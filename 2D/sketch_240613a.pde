@@ -1,5 +1,5 @@
 /**
- * Tugas GV 
+ * Tugas UAS GV 
  * Nur Mediyaksa Saiful Ma'ruf
  * 22106050067
  */
